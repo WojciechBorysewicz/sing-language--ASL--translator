@@ -13,6 +13,7 @@ This repository contains a university project originally completed as an assignm
 
 - `notebook/` — Google Colab notebook with training and evaluation code
 - `report/` — LaTeX report and final PDF
+- `requirements.txt` — Python package versions. The notebook was developed and tested with Python (3.12.13).
 
 ## Dataset
 
